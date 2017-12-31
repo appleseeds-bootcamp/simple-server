@@ -1,6 +1,6 @@
 ## Dependencies
-node
-npm
+* node
+* npm
 
 ## Install
 npm install
